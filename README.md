@@ -189,3 +189,4 @@ puts "The third letter in the alphabet is: #{letters[2]}"
 ```
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/interpolation-super-power' title='Interpolation Super Power'>Interpolation Super Power</a> on Learn.co and start learning to code for free.</p>
+
